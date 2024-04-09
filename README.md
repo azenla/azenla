@@ -10,6 +10,7 @@ Here are my main areas of interest, with multiple projects I've worked on in the
   - [diavirt](https://github.com/GayPizzaSpecifications/diavirt): Do-it-All Virtualization, a tool for utilizing Virtualization.framework via JSON configurations.
   - [cannery](https://github.com/GayPizzaSpecifications/cannery): macOS Virtual Machines GUI, implementing private APIs for beta functionality.
 - Developer tools
+  - [apk-tools](https://github.com/azenla/apk-tools): Implementation of apk-tools in Kotlin.
   - [pork](https://github.com/GayPizzaSpecifications/pork): Programming language stack written in Kotlin.
   - [concrete](https://github.com/GayPizzaSpecifications/concrete): Gradle plugin for Minecraft Server plugins.
   - [stable-diffusion-rpc](https://github.com/GayPizzaSpecifications/stable-diffusion-rpc): RPC service for running [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion) on macOS hardware over the network.
