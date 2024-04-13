@@ -16,6 +16,7 @@ Here are my main areas of interest, with multiple projects I've worked on in the
   - [stable-diffusion-rpc](https://github.com/GayPizzaSpecifications/stable-diffusion-rpc): RPC service for running [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion) on macOS hardware over the network.
 - Libraries for accessing developer tools
   - [irc.dart](https://github.com/GayPizzaSpecifications/irc.dart): Client library for [IRCv3](https://ircv3.net) in [Dart](https://dart.dev).
+  - [github.dart](https://github.com/SpinlockLabs/github.dart): Client library for [GitHub](https://github.com) in [Dart](https://dart.dev).
 - Anything and everything about the Apple platform
   - [MacHack](https://github.com/azenla/MacHack): Guide for hidden tools in macOS.
   - [metalgpu](https://github.com/GayPizzaSpecifications/metalgpu): Command-line tool for querying information about Metal GPUs.
