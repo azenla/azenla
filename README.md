@@ -8,7 +8,6 @@ Here are my main areas of interest, with multiple projects I've worked on in the
   - [krata](https://github.com/edera-dev/krata): Memory-safe hypervisor for OCI containers.
   - [virtual](https://github.com/azenla/virtual): macOS Virtual Machines on macOS. One of the earliest tools to bring [Virtualization.framework](https://developer.apple.com/documentation/virtualization) to the masses.
   - [diavirt](https://github.com/GayPizzaSpecifications/diavirt): Do-it-All Virtualization, a tool for utilizing Virtualization.framework via JSON configurations.
-  - [cannery](https://github.com/GayPizzaSpecifications/cannery): macOS Virtual Machines GUI, implementing private APIs for beta functionality.
 - Developer tools
   - [apk-tools](https://github.com/azenla/apk-tools): Implementation of apk-tools in Kotlin.
   - [pork](https://github.com/GayPizzaSpecifications/pork): Programming language stack written in Kotlin.
